@@ -65,6 +65,9 @@ Numa web application tradicional, que não faz uso do AJAX, normalente apenas GE
 * * *
 
 ### DOM
+**Document Object Model** é uma API Javascript provida pelo browser para acesso aos elementos HTML. É através dela que podemos escrever `document.getElementById('id_do_elemento')` e assim ler seus valores e propriedades.
+
+![Document Object Model](https://infinit.io/link/Fabio_Vedovelli/8xXK4bW.png) 
 
 * * *
 
@@ -81,6 +84,16 @@ Numa web application tradicional, que não faz uso do AJAX, normalente apenas GE
 * * *
 
 ### Grunt e Gulp
+São **automatizadores de tarefas**: ferramentas de linhas de comando que executam - de forma automatizada - tarefas que normalmente são executadas manualmente. Alguns exemplos:
+
++ Verificar código Javascript procurando por erros;
++ Concatenar e minificar código Javascript, CSS e HTML;
++ Comprimir imagens;
++ Processar arquivos SASS e LESS, transformando-os em CSS;
++ Copiar arquivos, colando-os em outra pasta;
++ ... entre muitas outras.
+
+Uma característica importante é que eles possuem a habilidade de "observar" os arquivos do projeto, aguardando modificações, para então executar (em ordem) as instruções a eles passadas em seu arquivo de configuração.
 
 * * *
 
