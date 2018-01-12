@@ -61,7 +61,11 @@ Numa web application tradicional, que não faz uso do AJAX, normalente apenas GE
 * * *
 
 ### UI/UX
+ * UX
+User experience” (experiência do usuário), é a experiência que o usuário tem ao usar seu produto, seja ele um APP, um site, sistema desktop ou lata de milho.
 
+* UI
+User interface (interface do usuário), parte responsável em auxiliar o usuário a concluir suas ações, é a parte visivel do seu sistema, APP ou que seja. Ou seja, cores, elementos e sua distribuição, informações ect. A interface do usuário é a ponte para a UX.
 * * *
 
 ### DOM
