@@ -1,4 +1,4 @@
-#Glossário Frontend
+# Glossário Frontend
 
 O objetivo deste documento é descrever brevemente os termos comumente utilizados quando falamos sobre front end. A grande oferta de ferramentas (e também de serviços, métodos, padrões e minucias em geral) confunde quem não vive o dia-a-dia do desenvolvimento web.
 
