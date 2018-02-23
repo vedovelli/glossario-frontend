@@ -104,6 +104,9 @@ Uma característica importante é que eles possuem a habilidade de "observar" os
 * * *
 
 ### Concatenar e Minificar
-
+ * Concatenar
+No contexto de concatenar arquivos, se refere ao ato de unir arquivos de uma mesma extensão (css, js) gerando unico grande arquivo como consequência o browser diminui o numero de requests e o processo de importação se torna mais simples.
+ * Minificar
+Minificar é um procedimento que tem como objetivo diminuir o tamanho de um arquivo. O processo consiste em remover comentários, espaços vázios e identações, coisas que são muito importantes no contexto de desenvolvimento, mas que pouco importam e ocupam espaço no ambiente de produção.
 * * *
 
