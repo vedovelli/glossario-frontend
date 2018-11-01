@@ -29,6 +29,10 @@ A criação de *Single Page Applications* foi bastante simplificada com o surgim
 
 * * *
 
+### Async / Await
+
+* * * 
+
 ### Framework
 Um framework normalmente é um conjunto de bibliotecas para conseguir executar uma operação maior. É comum um framework encapsular os comportamentos da API em implementações mais complexas, permitindo o seu uso de forma mais flexível, frequentemente através de extensões, configurações e inversões de controle. Como pode ser considerada uma camada em cima da API eventualmente pode simplificá-la em certo sentido. Ele costuma dar consistência a um conjunto de bibliotecas (pena que acontece o oposto em alguns casos).
 
@@ -82,6 +86,10 @@ User interface (interface do usuário), parte responsável em auxiliar o usuári
 * * *
 
 ### ES6
+
+* * *
+
+### Webpack
 
 * * *
 
