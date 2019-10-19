@@ -8,6 +8,24 @@ Sinta-se à vontade para fazer fork, complementar/melhorar a lista e solicitar f
 Tudo o que for relacionado a ambiente browser. Nesta categoria podemos incluir HTML, CSS, Javascript, Flash, imagens, SVG, frameworks e bibliotecas.
 * * *
 
+### HTML - (Hyper Text Markup Linguage) 
+HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML.
+* * * 
+
+### CSS - (Cascading Style Sheets)
+Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web. O código CSS pode ser aplicado diretamente nas tags ou ficar contido dentro das tags . Também é possível, em vez de colocar a formatação dentro do documento, criar um link para um arquivo CSS que contém os estilos.
+* * * 
+
+### Java Script  
+JavaScript, frequentemente abreviado como JS, é uma linguagem de programação interpretada de alto nível, caracterizada também, como dinâmica, fracamente tipificada, prototype-based e multi-paradigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web
+* * * 
+
+
+### Layout 
+O layout de um aplicativo é o design ou o arranjo do que o usuário vê na tela. Essa interface do usuário é composta por áreas retangulares chamadas Visualizações. As visualizações grandes podem conter visualizações menores e sempre há uma visualização maior que contém todas as outras.
+* * * 
+
+
 ### Routes
 São os pontos de acesso aos recursos (funcionalidades) da sua aplicação e costumam ser confundidas com as URL. Na verdade URL é apenas uma parte da rota, que tem por responsabilidade fazer a ligação entre a URL  com um *controller* que será responsável por processar a requisição.
 
