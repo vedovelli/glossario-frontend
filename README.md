@@ -79,7 +79,9 @@ User interface (interface do usuário), parte responsável em auxiliar o usuári
 
 ### Type Script
 
-* * *
+*TypeScript é um superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem e alguns outros recursos a linguagem. Anders Hejlsberg, arquiteto da linguagem C# e criador das linguagens Delphi e Turbo Pascal, trabalhou no desenvolvimento do TypeScript.[1][2][3][4] A linguagem pode ser usada para desenvolver aplicações JavaScript no lado cliente e lado servidor (Node.js).
+
+Foi considerada pelo público a 4ª linguagem "mais amada", de acordo com uma pesquisa conduzida pelo site Stack Overflow em 2018, e está entre as 15 linguagens mais populares, de acordo com uma pesquisa conduzida pela RedMonk
 
 ### ES6
 
