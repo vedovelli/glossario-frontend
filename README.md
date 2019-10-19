@@ -75,11 +75,11 @@ User interface (interface do usuário), parte responsável em auxiliar o usuári
 
 ### Coffee Script
 
-* * *
+CoffeeScript é uma linguagem de programação que transcompila para JavaScript. A linguagem adiciona elementos de sintaxe inspirados no Ruby, Python e Haskell para aprimorar a leitura e concisão do JavaScript, adicionando características sofisticadas como compreensão de lista e Casamento de padrões. CoffeeScript compila em JavaScript e os programas podem ser escritos com menos código, tipicamente com 1/3 a menos de linhas, sem efeito na performance.
 
 ### Type Script
 
-* * *
+Com TypeScript dispomos de recursos que melhor suportam o uso da Programação Orientada a Objetos, que tem como base quatro princípios fundamentais: encapsulamento, herança, abstração e polimorfismo, os quais veremos de forma mais detalhada a seguir. A POO sempre foi um problema ao ser aplicada em JavaScript, devido a sua sintaxe não permitir escrever classes, por exemplo, de forma tão clara, além da fraca tipagem de dados. O TypeScript oferece então uma forma de corrigir ou contornar esses problemas, adicionando funcionalidades que quando compiladas resultarão em código JavaScript novamente
 
 ### ES6
 
@@ -101,7 +101,9 @@ Uma característica importante é que eles possuem a habilidade de "observar" os
 
 ### Node.js e NPM
 
-* * *
+Node.js é uma plataforma construída sobre o motor JavaScript do Google Chrome para facilmente construir aplicações de rede rápidas e escaláveis. Node.js usa um modelo de I/O direcionada a evento não bloqueante que o torna leve e eficiente, ideal para aplicações em tempo real com troca intensa de dados através de dispositivos distribuídos.
+
+NPM é o nome reduzido de Node Package Manager (Gerenciador de Pacotes do Node). A NPM é duas coisas: Primeiro, e mais importante, é um repositório online para publicação de projetos de código aberto para o Node.js; segundo, ele é um utilitário de linha de comando que interage com este repositório online, que ajuda na instalação de pacotes, gerenciamento de versão e gerenciamento de dependências..
 
 ### Concatenar e Minificar
 
